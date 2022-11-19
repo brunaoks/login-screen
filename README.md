@@ -7,7 +7,7 @@
  ![GitHub forks](https://img.shields.io/github/forks/brunaoks/login-screen?style=for-the-badge)   
  
 <div align="left">
-<img src="https://user-images.githubusercontent.com/102770109/202871998-490190f3-194e-4006-b5f0-57995803351d.jpg" width="400px" /> 
+<img src="https://user-images.githubusercontent.com/102770109/202871998-490190f3-194e-4006-b5f0-57995803351d.jpg" /> 
 </div>
 
  > Uma tela de login qualquer e responsiva.

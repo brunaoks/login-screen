@@ -7,10 +7,10 @@
  ![GitHub forks](https://img.shields.io/github/forks/brunaoks/login-screen?style=for-the-badge)   
 
 ## Desktop
-<img src="https://user-images.githubusercontent.com/102770109/202873396-41c94399-bd3c-4184-8153-0e28b518ddd6.jpg" width="600px" />
+<img src="https://user-images.githubusercontent.com/102770109/202873396-41c94399-bd3c-4184-8153-0e28b518ddd6.jpg"  />
 
 ## Mobile
-<img src="" />
+<img src="https://user-images.githubusercontent.com/102770109/202873568-4e3c7d10-fef4-4a15-8d82-881437048821.png"  />
 
  > Uma tela de login qualquer e responsiva.
   
@@ -18,7 +18,7 @@
   
  O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas: 
   
- - [ ] Atualização visual.
+ - [ ] Funcionalidades.
   
  ## 💻 Pré-requisitos
 
@@ -26,7 +26,7 @@
    
  ## ☕ Abrindo o formulário 
   
- Para executar o formulário, siga esta etapa: 
+ Para abrir a tela de login, siga esta etapa: 
   
  ``` 
  Execute o arquivo "index.html"

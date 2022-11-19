@@ -6,8 +6,8 @@
  ![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/login-screen?style=for-the-badge) 
  ![GitHub forks](https://img.shields.io/github/forks/brunaoks/login-screen?style=for-the-badge)   
  
-<div>
-<img src="https://user-images.githubusercontent.com/102770109/202871998-490190f3-194e-4006-b5f0-57995803351d.jpg"/> 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/102770109/202871998-490190f3-194e-4006-b5f0-57995803351d.jpg" width="400px" /> 
 </div>
 
  > Uma tela de login qualquer e responsiva.

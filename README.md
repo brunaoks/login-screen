@@ -4,10 +4,10 @@
  ![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/login-screen?style=for-the-badge) 
  ![GitHub forks](https://img.shields.io/github/forks/brunaoks/login-screen?style=for-the-badge)   
 
-## Desktop
+## 💻 Desktop
 <img src="https://user-images.githubusercontent.com/102770109/202873396-41c94399-bd3c-4184-8153-0e28b518ddd6.jpg"  />
 
-## Mobile
+## 📱 Mobile
 <img src="https://user-images.githubusercontent.com/102770109/202873568-4e3c7d10-fef4-4a15-8d82-881437048821.png"  />
 
  > Uma tela de login qualquer e responsiva.<br> Para acessar o projeto <a href="https://brunaoks.github.io/login-screen/" target="_blank">Clique aqui.</a>

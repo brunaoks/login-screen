@@ -10,7 +10,7 @@
 ## 📱 Mobile
 <img src="https://user-images.githubusercontent.com/102770109/202873568-4e3c7d10-fef4-4a15-8d82-881437048821.png"  />
 
- > Uma tela de login qualquer e responsiva.<br> Para acessar o projeto <a href="https://brunaoks.github.io/login-screen/" target="_blank">Clique aqui.</a>
+ > Uma tela de login qualquer e responsiva desenvolvida com HTML5 e CSS3. Para acessar o projeto <a href="https://brunaoks.github.io/login-screen/" target="_blank">Clique aqui.</a>
   
  ## 🛠️ Ajustes e melhorias 
   

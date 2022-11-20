@@ -23,6 +23,15 @@
  ## 💻 Pré-requisitos
 
 * Um browser de sua preferência para visualização do projeto.
+
+## 🚀 Instalando tela de login
+
+Para instalar a tela de login, siga estas etapas:
+
+Clone o repositório na sua máquina usando:
+```
+git clone https://github.com/brunaoks/login-screen.git
+```
    
  ## ☕ Abrindo o formulário 
   
